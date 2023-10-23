@@ -1,11 +1,23 @@
 ## Unreal Engine 5 files ##
-
+*.bin
+*.dll
+*.pdb
+Binaries/
+Binaries/*
 Build/
 Build/*
 Packed/
 Packed/*
 Saved/
 Saved/*
+*/Binaries/
+*/Binaries/*
+*/Build/
+*/Build/*
+*/Packed/
+*/Packed/*
+*/Saved/
+*/Saved/*
 
 ## Visual Studio files ##
 
